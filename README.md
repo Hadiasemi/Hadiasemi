@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Hadiasemi.Hadiasemi)
+</p>
 <div size='20px'> Hi! My name is Max Hadi Asemi. Thank You for taking the time to view my GitHub Profile :smile: 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
@@ -27,6 +31,8 @@ Here are some ideas to get you started:
 <p align="center" height='130px'>
   <img src="https://github-readme-stats.vercel.app/api?username=Hadiasemi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=radical" alt="Hadiasemi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&show_icons=true&theme=radical&hide_title=true" alt="Hadiasemi"/> 
 </p>
+
+<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
 <p align = 'center'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
