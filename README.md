@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div size='20px'> Hi! My name is Max Hadi Asemi. Thank You for taking the time to view my GitHub Profile :smile: 
+<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align = 'center'>
+<a href = 'https://www.linkedin.com/in/hadiasemi/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+<a href = 'http://www.hadiasemi.com/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/Hadiasemi'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+</p>
+</div>
 <p align="center" height='130px'>
   <img src="https://github-readme-stats.vercel.app/api?username=Hadiasemi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=radical" alt="Hadiasemi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&show_icons=true&theme=radical&hide_title=true" alt="Hadiasemi"/> 
 </p>
