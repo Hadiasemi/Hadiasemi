@@ -52,6 +52,12 @@ Here are some ideas to get you started:
 </ul> 
 </p>
  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> </h2>
+ <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+<br>
+<!--
 <p align="center" height='130px'>
   <img src="https://github-readme-stats.vercel.app/api?username=Hadiasemi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=radical" alt="Hadiasemi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&show_icons=true&theme=radical&hide_title=true" alt="Hadiasemi"/> 
 <!--
