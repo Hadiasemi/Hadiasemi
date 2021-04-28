@@ -60,10 +60,4 @@ Continually I pursue new and up to date information in my field. I am also a mem
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 <br>
-<!--
-<p align="center" height='130px'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hadiasemi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=radical" alt="Hadiasemi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&show_icons=true&theme=radical&hide_title=true" alt="Hadiasemi"/> 
-<!--
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadiasemi&show_icons=true&theme=radical&line_height=40">
-</p>
+
