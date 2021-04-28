@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'>
 <br>
 </p>
-
+<!--
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadiasemi&show_icons=true&theme=radical&line_height=40">
 </p>
