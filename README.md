@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Hadiasemi&color=brightgreen)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hadiasemi.Hadiasemi)
 </p>
-<img width = '44px' align= 'center' src="./Welcom Page.gif"/>
+<img width = '44px' align= 'center' src="https://github.com/Hadiasemi/Hadiasemi/blob/main/Welcome%20page.gif"/>
 <div size='20px'> Hi! My name is Hadi Asemi. Welcome to my GitHub Profile :smile: 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
