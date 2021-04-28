@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! Welcome to my GitHub. My name is Hadi Asemi. 👋
 
 <!--
 **Hadiasemi/Hadiasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hadiasemi.Hadiasemi)
 </p>
 <!--<h1><img width = '100px' align= 'center' src="https://github.com/Hadiasemi/Hadiasemi/blob/main/Welcome%20page.gif"/></h1>-->
-<div size='20px'> Hi! My name is Hadi Asemi. Welcome to my GitHub Profile :smile: 
+<!--<div size='20px'> Hi! My name is Hadi Asemi. Welcome to my GitHub Profile :smile: -->
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 <a href = 'https://www.linkedin.com/in/hadiasemi/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
