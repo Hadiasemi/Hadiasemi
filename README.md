@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadiasemi&show_icons=true&theme=cobalt&line_height=40">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadiasemi&show_icons=true&theme=radical&line_height=40">
 </p>
