@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![](https://komarev.com/ghpvc/?username=Hadiasemi&color=brightgreen)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hadiasemi.Hadiasemi)
 </p>
 <div size='20px'> Hi! My name is Hadi Asemi. Welcome to my GitHub Profile :smile: 
