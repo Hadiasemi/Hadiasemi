@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 <h1> About Me:</h1>
 <p align="" height='130px'>
-I am a second year computer science student at California Polytechnic University, San Luis Obispo.
+I am a third year computer science student at California Polytechnic University, San Luis Obispo.
 
 Continually I pursue new and up to date information in my field. I am also a member of the White Hat Security, and Artificial Intelligence club which helps in my persuit for knowledge. My specific field of interest is to combining cyber security with artificial intelligence. I frequently use coding to automate my work. One of the most important skills which I have is bash scripting. Bash scripting helps me automate my work so that I can finish faster.
 </p>
