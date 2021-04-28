@@ -58,7 +58,7 @@ Continually I pursue new and up to date information in my field. I am also a mem
 
  <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical)
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical)
 
 <br>
 
