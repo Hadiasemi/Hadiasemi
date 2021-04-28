@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'>
 <br>
 </p>
-[![Hadiasemi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hadiasemi)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadiasemi&show_icons=true&theme=cobalt&line_height=40">
+</p>
