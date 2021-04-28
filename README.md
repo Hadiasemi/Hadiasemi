@@ -55,10 +55,10 @@ Continually I pursue new and up to date information in my field. I am also a mem
 
 
 ![Hadi Asemi's github stats](https://github-readme-stats.vercel.app/api?username=Hadiasemi&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical)
 
  <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical)
 
 <br>
 
