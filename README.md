@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 
 </p>
-<h1> About Me:</h1>
+<h1> About Me</h1>
 <p align="" height='130px'>
 I am a third year computer science student at California Polytechnic University, San Luis Obispo.
 
