@@ -41,11 +41,15 @@ Here are some ideas to get you started:
 <br>
 </p>
 </div>
+
+</p>
+<h1> About Me:</h1>
+<p align="center" height='130px'>
+  - I am currently studying at California Polytechnic State University.
+  - I am a computer science major focussed on cybersecurity, AI
+ </p>
 <p align="center" height='130px'>
   <img src="https://github-readme-stats.vercel.app/api?username=Hadiasemi&show_icons=true&hide_title=true&include_all_commits=true&line_height=40&theme=radical" alt="Hadiasemi"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiasemi&show_icons=true&theme=radical&hide_title=true" alt="Hadiasemi"/> 
-</p>
-# About Me:
-
 <!--
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hadiasemi&show_icons=true&theme=radical&line_height=40">
