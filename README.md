@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p align="center" height='130px'>
    <ul>
   <li>I am currently studying at California Polytechnic State University.</li>
-  <li>I am a computer science major focussed on cybersecurity, AI
+  <li>I am a computer science major focussed on cybersecurity, and AI
 </ul> 
 </p>
  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> </h2>
