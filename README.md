@@ -46,10 +46,9 @@ Here are some ideas to get you started:
 </p>
 <h1> About Me:</h1>
 <p align="center" height='130px'>
-   <ul>
-  <li>I am currently studying at California Polytechnic State University.</li>
-  <li>I am a computer science major focussed on cybersecurity, and AI
-</ul> 
+   I am a second year computer science student at California Polytechnic University, San Luis Obispo.
+
+Continually I pursue new and up to date information in my field. I am also a member of the White Hat Security, and Artificial Intelligence club which helps in my persuit for knowledge. My specific field of interest is to combining cyber security with artificial intelligence. I frequently use coding to automate my work. One of the most important skills which I have is bash scripting. Bash scripting helps me automate my work so that I can finish faster.
 </p>
  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> </h2>
  <br>
