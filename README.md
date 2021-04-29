@@ -1,5 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png" alt="" class="center" width=900px> 
+![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
 ### Hi! Welcome to my GitHub. My name is Hadi Asemi. 👋
 
 <!--
