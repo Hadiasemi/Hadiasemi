@@ -1,5 +1,5 @@
 <!--![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)-->
-### Hi! Welcome to my GitHub. My name is Hadi Asemi. 👋
+<!--### Hi! Welcome to my GitHub. My name is Hadi Asemi. 👋
 
 <!--
 **Hadiasemi/Hadiasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 
 ![](https://komarev.com/ghpvc/?username=Hadiasemi&color=brightgreen)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hadiasemi.Hadiasemi)
 </p>
+<h1>Hi! Welcome to my GitHub. My name is Hadi Asemi.</h1>
 <!--<h1><img width = '100px' align= 'center' src="https://github.com/Hadiasemi/Hadiasemi/blob/main/Welcome%20page.gif"/></h1>-->
 <!--<div size='20px'> Hi! My name is Hadi Asemi. Welcome to my GitHub Profile :smile: -->
-<h2 align=''> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<h1 align=''> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <p align = 'center'>
 <a href = 'https://www.linkedin.com/in/hadiasemi/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'http://www.hadiasemi.com/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/Hadiasemi'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
-<h2 align=''> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<h1 align=''> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 <p align = 'center'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
