@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
+<!--![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)-->
 ### Hi! Welcome to my GitHub. My name is Hadi Asemi. 👋
 
 <!--
