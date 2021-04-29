@@ -58,7 +58,7 @@ Continually I pursue new and up to date information in my field. I am also a mem
 <p>
 <a href="https://github.com/Hadisemi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hadiasemi&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical&layout=compact&exclude_lang=css,html" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hadiasemi&theme=radical&layout=compact&exclude_lang=CSS,html" />
 </a>
 </p>
 
