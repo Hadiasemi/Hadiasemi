@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png ==100x100)
+![alt README header =150x50](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
 ### Hi! Welcome to my GitHub. My name is Hadi Asemi. 👋
 
 <!--
