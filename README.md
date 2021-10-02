@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <p align="" height='130px'>
 I am a third year computer science student at California Polytechnic University, San Luis Obispo.
 
-Continually I pursue new and up to date information in my field. I am also a member of the White Hat Security, and Artificial Intelligence club which helps in my persuit for knowledge. My specific field of interest is to combining cyber security with artificial intelligence. I frequently use coding to automate my work. One of the most important skills which I have is bash scripting. Bash scripting helps me automate my work so that I can finish faster.
+I continually pursue the latest information in my field so I can be on the cutting edge of high tech. I am a member of White Hat Security, an information protection agency, and hold membership to the Artificial Intelligence Club at Cal Poly. My scope of interest is combining cyber security with artificial intelligence. One of the most important skills that I use to automate my work is bash scripting.
+
+Please feel free to contact me with any questions or growth opportunities!
 </p>
  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> </h2>
  <br>
