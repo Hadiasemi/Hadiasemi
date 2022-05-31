@@ -50,9 +50,8 @@ Here are some ideas to get you started:
 </p>
 <h2> About Me</h1>
 <p align="" height='130px'>
-I am a third year computer science student at California Polytechnic University, San Luis Obispo.
-
-I continually pursue the latest information in my field so I can be on the cutting edge of high tech. I am a member of White Hat Security, an information protection agency, and hold membership to the Artificial Intelligence Club at Cal Poly. My scope of interest is combining cyber security with artificial intelligence. One of the most important skills that I use to automate my work is bash scripting.
+I am a cybersecurity enthusiast with regard to application security. I am currently pursuing my master’s degree in computer science at California Polytechnic University, San Luis Obispo.
+In addition, I am part of the WhiteHat cyber security club. I am proficient in C, Java, Python, and Golang, and I just built and managed two servers from the ground up, from security to setting up websites, users, Linux environment, etc. I am proficient in the Linux command line and use vim as my developing environment. Moreover, I write scripts to automate my ethical penetration testing during my free time. Every day, I try to update my knowledge to be at or above industry standards.
 
 Please feel free to contact me with any questions or growth opportunities!
 </p>
