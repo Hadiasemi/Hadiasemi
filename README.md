@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--<h1><img width = '100px' align= 'center' src="https://github.com/Hadiasemi/Hadiasemi/blob/main/Welcome%20page.gif"/></h1>-->
 <!--<div size='20px'> Hi! My name is Hadi Asemi. Welcome to my GitHub Profile :smile: -->
-<h2 align=''> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<h3 align=''> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> </h3>
 <p align = 'center'>
 <a href = 'http://www.linkedin.com/in/Hadi-Asemi'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://hadiasemi.com/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
